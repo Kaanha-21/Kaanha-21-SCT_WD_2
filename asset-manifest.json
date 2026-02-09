@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kaanha-21/Kaanha-21-SCT_WD_2.git/static/css/main.bec0c72e.css",
+    "main.js": "/Kaanha-21/Kaanha-21-SCT_WD_2.git/static/js/main.8289b53c.js",
+    "index.html": "/Kaanha-21/Kaanha-21-SCT_WD_2.git/index.html",
+    "main.bec0c72e.css.map": "/Kaanha-21/Kaanha-21-SCT_WD_2.git/static/css/main.bec0c72e.css.map",
+    "main.8289b53c.js.map": "/Kaanha-21/Kaanha-21-SCT_WD_2.git/static/js/main.8289b53c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bec0c72e.css",
+    "static/js/main.8289b53c.js"
+  ]
+}
