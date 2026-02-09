@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Kaanha-21-SCT_WD_2/static/css/main.bec0c72e.css",
-    "main.js": "/Kaanha-21-SCT_WD_2/static/js/main.8289b53c.js",
-    "index.html": "/Kaanha-21-SCT_WD_2/index.html",
-    "main.bec0c72e.css.map": "/Kaanha-21-SCT_WD_2/static/css/main.bec0c72e.css.map",
-    "main.8289b53c.js.map": "/Kaanha-21-SCT_WD_2/static/js/main.8289b53c.js.map"
+    "main.css": "/SCT_WD_2/static/css/main.bec0c72e.css",
+    "main.js": "/SCT_WD_2/static/js/main.8289b53c.js",
+    "index.html": "/SCT_WD_2/index.html",
+    "main.bec0c72e.css.map": "/SCT_WD_2/static/css/main.bec0c72e.css.map",
+    "main.8289b53c.js.map": "/SCT_WD_2/static/js/main.8289b53c.js.map"
   },
   "entrypoints": [
     "static/css/main.bec0c72e.css",
